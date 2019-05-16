@@ -1,0 +1,11 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetDevice": "e00fce68270e7623920c3157",
+    "particle.firmwareVersion": "0.9.0",
+    "particle.targetPlatform": "xenon",
+    "cortex-debug.openocdPath": "C:\\Users\\dsmolych\\.particle\\toolchains\\openocd\\0.10.0-particle.1\\bin\\openocd.exe"
+}

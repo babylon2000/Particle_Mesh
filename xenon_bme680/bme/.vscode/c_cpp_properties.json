@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/dsmolych/.particle/toolchains/deviceOS/0.9.0/firmware-0.9.0/user/inc"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "particle.particle-vscode-core"
+        }
+    ],
+    "version": 4
+}
